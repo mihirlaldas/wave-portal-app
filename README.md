@@ -1,3 +1,4 @@
+## [checkout the app here](https://waveportal-starter-project.mihirlaldas.repl.co/)
 ## [smart contract repo](https://github.com/mihirlaldas/wave-portal-contract)
 
 #### courtesy [@buildspace](https://buildspace.so/)
