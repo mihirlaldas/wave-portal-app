@@ -1,3 +1,7 @@
+## [smart contract repo](https://github.com/mihirlaldas/wave-portal-contract)
+
+#### courtesy [@buildspace](https://buildspace.so/)
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
